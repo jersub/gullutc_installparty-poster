@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="install.svg"
-   inkscape:export-filename="/home/animus/Images/creations/bmp/install.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/jeremy/Bureau/gullutc/gullutc.png"
+   inkscape:export-xdpi="200.03569"
+   inkscape:export-ydpi="200.03569">
   <defs
      id="defs4">
     <linearGradient
@@ -157,6 +157,13 @@
          stdDeviation="4.4081593"
          id="feGaussianBlur7472" />
     </filter>
+    <inkscape:perspective
+       id="perspective3287"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -167,14 +174,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="600.89876"
-     inkscape:cy="489.41605"
+     inkscape:cy="365.46771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="972"
-     inkscape:window-x="-1"
-     inkscape:window-y="30"
+     inkscape:window-height="726"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -184,7 +191,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1681,14 +1688,14 @@
        y="308.2677" />
     <text
        xml:space="preserve"
-       style="font-size:44.60354233px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Visitor TT1 BRK;-inkscape-font-specification:Visitor TT1 BRK"
+       style="font-size:43px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Visitor TT1 BRK;-inkscape-font-specification:Visitor TT1 BRK"
        x="20.430737"
        y="367.13809"
        id="text6162"><tspan
          sodipodi:role="line"
          id="tspan6164"
          x="20.430737"
-         y="367.13809">Marre de planter?</tspan></text>
+         y="367.13809">Marre de planter ?</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="rect6168"
@@ -1924,62 +1931,80 @@
          id="tspan6282"
          sodipodi:role="line">power</tspan></text>
     <g
-       id="g3938"
-       transform="matrix(1.0114743,0,0,1.0114743,336.96876,1002.5263)">
+       id="g3247">
       <rect
          style="fill:#bebebe;fill-opacity:1;stroke:none"
          id="rect7382"
-         width="337.55536"
-         height="56.494621"
-         x="369.72253"
-         y="-7.2240829" />
+         width="341.42856"
+         height="57.142857"
+         x="710.93359"
+         y="995.2193" />
       <text
          xml:space="preserve"
-         style="font-size:39.54623413px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DisplayOTF;-inkscape-font-specification:DisplayOTF"
-         x="394.22214"
-         y="33.734535"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DisplayOTF;-inkscape-font-specification:DisplayOTF"
+         x="735.71429"
+         y="1036.6479"
          id="text7384"><tspan
            sodipodi:role="line"
            id="tspan7386"
-           x="394.22214"
-           y="33.734535">a gullUTC event</tspan></text>
+           x="735.71429"
+           y="1036.6479">a gullUTC event</tspan></text>
       <rect
-         y="-15.737754"
-         x="344.26047"
-         height="65.047768"
-         width="375.76816"
+         y="986.60797"
+         x="685.17938"
+         height="65.794144"
+         width="380.07983"
          id="rect7466"
-         style="fill:none;stroke:#bebebe;stroke-width:2.9659676;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#bebebe;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <rect
-         style="fill:none;stroke:#bebebe;stroke-width:2.96596759999999993;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter7470)"
+         transform="matrix(1.0114743,0,0,1.0114743,336.96876,1002.5263)"
+         style="fill:none;stroke:#bebebe;stroke-width:2.96596766;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter7470)"
          id="rect7468"
          width="375.76816"
          height="65.047768"
          x="344.26047"
          y="-15.737754" />
-      <text
-         xml:space="preserve"
-         style="font-size:39.54623413px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="190.8981"
-         y="-203.09543"
-         id="text7474"
-         transform="matrix(0.86602543,-0.50000001,0,1.1547005,0,0)"><tspan
-           sodipodi:role="line"
-           id="tspan7476"
-           x="190.8981"
-           y="-203.09543"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lcd phone;-inkscape-font-specification:lcd phone">FA 404</tspan></text>
-      <text
-         transform="matrix(0.86602543,-0.50000001,0,1.1547005,0,0)"
-         id="text7478"
-         y="-277.1658"
-         x="122.04085"
-         style="font-size:32.86127472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:lcd phone;-inkscape-font-specification:lcd phone"
-         xml:space="preserve"><tspan
-           y="-277.1658"
-           x="122.04085"
-           id="tspan7480"
-           sodipodi:role="line">JEUDI 03/06</tspan></text>
     </g>
+    <text
+       transform="matrix(0.86602543,-0.50000001,0,1.1547005,0,0)"
+       id="text7474"
+       y="822.97308"
+       x="514.53394"
+       style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:lcd phone;-inkscape-font-specification:lcd phone"
+         y="822.97308"
+         x="514.53394"
+         id="tspan7476"
+         sodipodi:role="line">18h30 FA306</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.23833466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:lcd phone;-inkscape-font-specification:lcd phone"
+       x="512.53918"
+       y="766.84937"
+       id="text7478"
+       transform="matrix(0.86602543,-0.50000001,0,1.1547005,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7480"
+         x="512.53918"
+         y="766.84937">JEUDI 03/06</tspan></text>
+    <image
+       sodipodi:absref="/home/jeremy/Bureau/gullutc_installparty-poster/upsilon_2.jpg"
+       xlink:href="upsilon_2.jpg"
+       width="58.477119"
+       height="70.867966"
+       id="image3289"
+       x="614.22858"
+       y="985.61346" />
+    <text
+       xml:space="preserve"
+       style="font-size:15;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="10.101532"
+       y="1044.2809"
+       id="text3293"><tspan
+         sodipodi:role="line"
+         id="tspan3295"
+         x="10.101532"
+         y="1044.2809">subtilje - à retirer le 05/06/2010</tspan></text>
   </g>
 </svg>
